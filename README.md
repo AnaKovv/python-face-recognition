@@ -19,6 +19,3 @@ To run the face recognition script, simply navigate to the project directory and
 
 `python face_recognition.py`
 
-## Note
-
-The script is using the haarcascade_frontalface_default.xml file, which is a classifier that can detect faces using the Haar Cascade method.
